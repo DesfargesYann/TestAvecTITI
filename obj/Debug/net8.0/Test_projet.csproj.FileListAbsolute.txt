@@ -1,0 +1,15 @@
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\bin\Debug\net8.0\Test_projet.exe
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\bin\Debug\net8.0\Test_projet.deps.json
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\bin\Debug\net8.0\Test_projet.runtimeconfig.json
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\bin\Debug\net8.0\Test_projet.dll
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\bin\Debug\net8.0\Test_projet.pdb
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.AssemblyInfoInputs.cache
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.AssemblyInfo.cs
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.csproj.CoreCompileInputs.cache
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.sourcelink.json
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.dll
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\refint\Test_projet.dll
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.pdb
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\Test_projet.genruntimeconfig.cache
+C:\Users\Tonon\OneDrive\Documents\ENSC\1A ENSC\Programmation C#\Projet JusENSC World\Test_projet\TestAvecTITI\obj\Debug\net8.0\ref\Test_projet.dll
