@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\Test_projet.csproj": {}
+    "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\TestAvecTITI\\Test_projet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\Test_projet.csproj": {
+    "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\TestAvecTITI\\Test_projet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\Test_projet.csproj",
+        "projectUniqueName": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\TestAvecTITI\\Test_projet.csproj",
         "projectName": "Test_projet",
-        "projectPath": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\Test_projet.csproj",
+        "projectPath": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\TestAvecTITI\\Test_projet.csproj",
         "packagesPath": "C:\\Users\\Tonon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\obj\\",
+        "outputPath": "C:\\Users\\Tonon\\OneDrive\\Documents\\ENSC\\1A ENSC\\Programmation C#\\Projet JusENSC World\\Test_projet\\TestAvecTITI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tonon\\AppData\\Roaming\\NuGet\\NuGet.Config"
